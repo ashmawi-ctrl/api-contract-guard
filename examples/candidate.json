@@ -1,0 +1,11 @@
+{
+  "id": "tr_1001",
+  "status": "settled",
+  "history": [
+    {
+      "transactionResponseCode": "k_default",
+      "transactionResponseMessage": "Settled"
+    }
+  ],
+  "trace_id": "req_42"
+}
