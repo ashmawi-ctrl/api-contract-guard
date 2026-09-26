@@ -1,0 +1,13 @@
+{
+  "id": "tr_1001",
+  "status": "settled",
+  "history": [
+    {
+      "transactionResponseCode": "k_default",
+      "transactionResponseMessage": {
+        "en": "Settled",
+        "ar": "تم التسوية"
+      }
+    }
+  ]
+}
